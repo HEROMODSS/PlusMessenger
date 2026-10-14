@@ -2,8 +2,12 @@
   "enabled": false,
   "title": "Update Available!",
   "points": [
-    "Can’t wait to see you in the new version.",
-    "Click “Update Now” to download the latest version from our Telegram channel."
+    "Source code updated to v13.0.2",
+    "Experimental faster download speeds for both free and Premium users.",
+    "Faster and more reliable camera switching in the round video recorder.",
+    "Updated code highlighting, with support for the fift, func and tact languages.",
+    "More screens updated to new design.",
+    "Bug fixes."
   ],
   "update_link": "https://t.me/heromodss/",
   "cancel_text": "NOT NOW",
