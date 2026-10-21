@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "title": "Update Available!",
   "points": [
     "Source code updated to v13.0.2",
